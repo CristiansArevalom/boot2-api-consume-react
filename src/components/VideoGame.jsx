@@ -15,7 +15,7 @@ const VideoGame = () => {
             platform: 'pc'
           },
           headers: {
-            'x-rapidapi-key': 'RAPIDAAPIKEY',
+            'x-rapidapi-key': 'RAPIDAI',
             'x-rapidapi-host': 'free-to-play-games-database.p.rapidapi.com'
           }
         };

@@ -1,6 +1,6 @@
-# Práctica de react-router-dom SPA (Single-Page Application)
+# Práctica de consumo de API REST
 
-Este proyecto es una práctica de SPA con react-router-dom, en una aplicación frontend con React + Vite.
+Este proyecto es una práctica de consumo de api rest de videojuegos con React + Vite.
 
 ## Instalación
 
